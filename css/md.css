@@ -1,0 +1,64 @@
+@media only screen and (max-width: 1140px){
+    .list{
+        width: 60vw;
+    }
+    .button-fill{
+        width: 180px;
+    }
+    .hero-section{
+        margin-top: 40px;
+    }
+    .avatar{
+        width: 400px;
+    }
+    .name{
+        font-size: 24px;
+    }
+    
+    .jumbo{
+        font-size: 60px;
+    }
+    .description{
+        font-size: 20px;
+    }
+    .skills{
+        width: 95vw;
+    }
+    .skill{
+        height: 42vh;
+        width: 30vw;
+    }
+    .experience-details{
+        width: 60vw;
+    }
+    .box{
+        width: 25vw;
+        text-align: center;
+        height: 18vh;
+    }
+    .project-section{
+        width: 85vw;
+        margin-top: 60px;
+    }
+    
+    .image-container>img{
+        width: 40vw;
+
+    }
+    .project{
+        height: 60vh;
+        width: 40vw;
+    }
+    .jumbo-md{
+        font-size: 38px;
+    }
+    .text{
+        font-size: 21px;
+    }
+    .contact-section{
+        width: 80vw;
+    } 
+    .footer-list{
+        width: 50vw;
+    }
+}

@@ -1,0 +1,107 @@
+@media only screen and (max-width: 768px){
+    .flex{
+        flex-direction: column;
+    }
+    .button-fill{
+        margin: 16px 0px;
+    }
+    .list{
+        display: none;
+    }
+    .py-6{
+        padding: 3vh 0vw;
+    }
+    .py-12{
+        padding: 9vh 0vw;
+    }
+    .pb-12{
+        padding-bottom: 6vh;
+    }
+    .py-8{
+        padding: 5vh 0vw;
+    }
+    .avatar{
+        width: 350px;
+    }
+    .hero-section.flex{
+        flex-direction: column;
+    }
+    .jumbo{
+        font-size: 40px;
+    }
+    .skill{
+        width: 55vw;
+        margin: 10px 0px;
+    }
+    .section-heading{
+        text-align: center;
+        margin: 8px 0px;
+    }
+    .experience-details.flex{
+        flex-direction: row;
+        margin: 10px 0px;
+        width: 90vw;
+    }
+    .box{
+        width: 40vw;
+    }
+    .text{
+        font-size: 18px;
+    }
+    .project{
+        width: 55vw;
+        height: 55vh;
+    }
+    .image-container>img{
+        width: 55vw;
+    }
+    .jumbo-md{
+        font-size: 34px;
+    }
+    .contact-section {
+        height: 45vh;
+    }
+    .contact-content{
+        width: 70vw;
+    }
+    .footer-list.flex{
+        flex-direction: row;
+    }
+}
+
+@media only screen and (max-width: 480px){
+    .project{
+        width: 80vw;
+        height: 52vh;
+    }
+    .skill{
+        width: 80vw;
+    }
+    .skill .section-heading{
+        text-align: left;
+    }
+    .avatar{
+        width: 280px;
+    }
+    .image-container>img{
+        width: 80vw;
+    }
+    .section-heading{
+        font-size: 28px;
+    }
+    .flex-gap{
+        gap: 3vw;
+    }
+    .list-item{
+        font-size: 12px;
+    }
+    .jumbo-md{
+        margin-top: 30px;
+    }
+    .contact-section {
+        height: 60vh;
+    }
+    .logo-container{
+        margin-left: -80px;
+    }
+}
