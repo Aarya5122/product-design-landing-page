@@ -1,6 +1,6 @@
 # PRODUCT DESIGN LANDING PAGE PREVIEW
 
-
+[product-web.webm](https://user-images.githubusercontent.com/72256055/192192785-bfc8bfe7-1bef-430d-ba1b-d53db5681a09.webm)
 
 # PRODUCT DESIGN LANDING PAGE CLONE
 
@@ -29,7 +29,7 @@
 Here I got a chance to explore more about Core CSS concepts. Understood the work flow of the media queries and developing utility classes was a awesome experience. I explored width, padding, margin, background, position, background image, media-queries and a lot more core CSS concepts to get this project up and running😃.
 
 ## Live Link
-**[Project in Action 🔥](https://product-fsjs.netlify.app/)**
+**[Project in Action 🔥](https://product-design-fsjs.netlify.app/)**
 
 
 ## Screenshots
